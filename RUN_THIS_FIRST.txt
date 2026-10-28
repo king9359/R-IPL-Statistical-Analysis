@@ -1,0 +1,8 @@
+IPL 2026 SIMPLE DASHBOARD
+
+1. Extract ZIP and open the RStudio .Rproj file.
+2. Open app.R and click Run App (or use shiny::runApp()).
+3. Allow the initial data downloads and package installations.
+
+First run requires the internet. Future runs can reuse downloaded CSVs.
+See README.md for features and limitations.
